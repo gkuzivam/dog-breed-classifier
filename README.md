@@ -20,5 +20,7 @@ The models are built upon PyTorch and were trained using GPU acceleration.
 ## 3. Results
 
 Proposal and report can be found in this repository. The jupyter notebook contains all the development code. Sample results:
+
 ![alt text](https://github.com/gkuzivam/dog-breed-classifier/blob/master/d1.png)
+
 ![alt text](https://github.com/gkuzivam/dog-breed-classifier/blob/master/h3.png)
