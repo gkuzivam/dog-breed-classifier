@@ -17,8 +17,8 @@ This link https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.
 The models are built upon PyTorch and were trained using GPU acceleration.
 
 ---
-### 3. Results
+## 3. Results
 
 Proposal and report can be found in this repository. The jupyter notebook contains all the development code. Sample results:
-![alt text](https://github.com/gkuzivam/dog-breed-classifier/d1.png)
-![alt text](https://github.com/gkuzivam/dog-breed-classifier/h3.png)
+![alt text](https://github.com/gkuzivam/dog-breed-classifier/blob/master/d1.png)
+![alt text](https://github.com/gkuzivam/dog-breed-classifier/blob/master/h3.png)
